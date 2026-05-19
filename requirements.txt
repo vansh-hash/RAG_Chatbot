@@ -10,3 +10,7 @@ langchain-text-splitters==1.1.2
 sentence-transformers==5.5.0
 faiss-cpu==1.13.2
 pypdf==6.11.0
+
+numpy==2.3.5
+pandas==2.3.3
+pyarrow==21.0.0
