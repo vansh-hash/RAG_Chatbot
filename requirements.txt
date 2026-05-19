@@ -12,6 +12,5 @@ faiss-cpu==1.13.2
 
 pypdf==6.11.0
 
-numpy==1.26.4
-pandas==2.2.2
+
 pyarrow==15.0.2
