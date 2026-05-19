@@ -5,18 +5,21 @@
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Virtual environments
 venv/
 env/
 
-# Streamlit cache
+# Streamlit
 .streamlit/
 
-# Vector DB
+# FAISS vector database
 faiss_index/
 
-# Uploaded files
+# Uploaded/generated files
 uploads/
+
+# Crash dumps
+*.stackdump
 
 # OS files
 .DS_Store
